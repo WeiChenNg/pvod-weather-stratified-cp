@@ -2,6 +2,7 @@
 from pathlib import Path
 
 import matplotlib.pyplot as plt
+from matplotlib.ticker import MaxNLocator
 import numpy as np
 import pandas as pd
 
@@ -51,6 +52,7 @@ def tradeoff(st, fname):
         ax.axhline(0.9, color="k", ls="--", lw=1)
         ax.set_title(c)
         ax.set_xlabel("PINAW")
+        ax.xaxis.set_major_locator(MaxNLocator(nbins=4))  # keep edge ticks of adjacent panels apart
     axs[0].set_ylabel("PICP")
     h, l = axs[0].get_legend_handles_labels()
     fig.legend(h, l, loc="lower center", ncol=4, fontsize=8, frameon=False)

@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this code, please cite it as below."
 title: "pvod-weather-stratified-cp: weather-stratified evaluation of conformal day-ahead PV power intervals"
-version: 1.0.0
+version: 1.0.1
 date-released: 2026-11-08
 license: MIT
 doi: 10.5281/zenodo.24050972
