@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "pvod-weather-stratified-cp: weather-stratified evaluation of conformal day-ahead PV power intervals"
+version: 1.0.0
+date-released: 2026-11-08
+license: MIT
+repository-code: "https://github.com/WeiChenNg/pvod-weather-stratified-cp"
+authors:
+  - family-names: Ng
+    given-names: Wei Chen
+    affiliation: "Xiamen University Malaysia"
+  - family-names: Lee
+    given-names: Yu Chen
+    affiliation: "Xiamen University Malaysia"
+  - family-names: Lee
+    given-names: Yan Kang
+    affiliation: "Xiamen University Malaysia"
+  - family-names: Xie
+    given-names: Qiyi
+    affiliation: "Xiamen University Malaysia; University of Pennsylvania"
+  - family-names: Kang
+    given-names: Jia Chao
+    affiliation: "Xiamen University Malaysia"
+  - family-names: Tan
+    given-names: Jian Ding
+    affiliation: "Xiamen University Malaysia"
+keywords:
+  - conformal prediction
+  - photovoltaic power forecasting
+  - prediction intervals
+  - numerical weather prediction
+  - conditional coverage
