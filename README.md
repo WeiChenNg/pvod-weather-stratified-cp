@@ -40,8 +40,9 @@ comparisons, including every comparison among the CACP variants, are exploratory
 
 PVOD v1.0 is published on the Science Data Bank, DOI
 [10.57760/sciencedb.01094](https://doi.org/10.57760/sciencedb.01094). **The raw data are not
-redistributed here.** Use of the dataset is subject to the terms on its Science Data Bank page,
-and the data paper must be cited:
+redistributed here.** Released under CC BY 4.0 according to its Science Data Bank page; the
+providers additionally ask that it be used for scientific research only and that the data paper
+be cited:
 
 > T. Yao, J. Wang, H. Wu, P. Zhang, S. Li, Y. Wang, X. Chi, M. Shi. A photovoltaic power output
 > dataset: Multi-source photovoltaic power output dataset with Python toolkit. *Solar Energy* 230
