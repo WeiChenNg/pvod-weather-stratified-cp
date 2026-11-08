@@ -1,5 +1,7 @@
 # Weather-stratified evaluation of conformal day-ahead PV power intervals
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24050972.svg)](https://doi.org/10.5281/zenodo.24050972)
+
 Code, results and reproduction commands for the paper
 
 > W. C. Ng, Y. C. Lee, Y. K. Lee, Q. Xie, J. C. Kang, J. D. Tan.
@@ -130,7 +132,7 @@ Method names in the code differ from the paper: `cacp` = CACP-T, `cacp_nwp` = CA
 ## Citation
 
 If you use this code, please cite the paper (citation will be updated on publication) and this
-archive; see `CITATION.cff`.
+archive, https://doi.org/10.5281/zenodo.24050972 (all versions); see `CITATION.cff`.
 
 ## License
 

@@ -4,6 +4,7 @@ title: "pvod-weather-stratified-cp: weather-stratified evaluation of conformal d
 version: 1.0.0
 date-released: 2026-11-08
 license: MIT
+doi: 10.5281/zenodo.24050972
 repository-code: "https://github.com/WeiChenNg/pvod-weather-stratified-cp"
 authors:
   - family-names: Ng
